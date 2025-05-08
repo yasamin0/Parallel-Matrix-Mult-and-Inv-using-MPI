@@ -57,7 +57,7 @@ It supports **dense** and **sparse** matrices, focusing on scalability, communic
 
 ## 📄 Report
 
-For in-depth theory, methodology, and results, see the full report in the [`/Report/`](./Report) folder.  
+For in-depth theory, methodology, and results, see the full report.  
 Includes graphs, scalability analysis, and cluster performance comparisons.
 
 ---
