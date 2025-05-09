@@ -38,8 +38,8 @@ void runDenseMultiplication(int n) {
     double elapsed = chrono::duration<double>(end - start).count();
 
     // Print results
-    cout << "✅ Dense matrix multiplication completed.\n";
-    cout << "⏱ Time taken: " << elapsed << " seconds.\n";
+    cout << "Dense matrix multiplication completed.\n";
+    cout << "Time taken: " << elapsed << " seconds.\n";
 }
 
 // ------------------------ SPARSE (CSR) ----------------------------
